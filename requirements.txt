@@ -1,0 +1,13 @@
+# Main dependencies 
+streamlit==1.40.0
+langchain==0.3.25
+langchain-community==0.3.23
+langchain-google-genai==2.1.4
+langchain-groq==0.2.1
+python-dotenv==1.1.0
+chromadb==0.5.23
+pypdf==5.1.0
+langchain-huggingface==0.3.1
+sentence-transformers
+numpy==1.26.4
+scipy==1.13.1
