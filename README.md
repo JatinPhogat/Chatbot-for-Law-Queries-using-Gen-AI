@@ -231,7 +231,7 @@ Contributions are welcome! Here's how:
 
 **Jatin Phogat**
 - GitHub: [@JatinPhogat](https://github.com/JatinPhogat)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/jatinphogat)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/jatin-phogat)
 
 ## 📄 License
 
