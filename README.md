@@ -9,17 +9,17 @@
 
 ![NyaySetu Demo](https://via.placeholder.com/800x400.png?text=NyaySetu+Demo+Screenshot)
 
-## 🌟 Key Features
+##  Key Features
 
-- **🤖 Intelligent Legal Q&A**: Get accurate answers to legal questions using advanced AI
-- **📚 RAG-Powered Responses**: Retrieves information from actual legal documents (Constitution, IPC, Evidence Act, Contract Act)
-- **💬 Conversational Interface**: Natural, user-friendly chat experience with memory
-- **🌐 Bilingual Support**: Works with both English and Hindi queries
-- **⚡ Fast & Efficient**: Powered by Groq's Llama 3.3 70B for lightning-fast responses
-- **🔒 Privacy-Focused**: Local embeddings using HuggingFace models
-- **📱 Responsive Design**: Beautiful dark-themed UI optimized for all devices
+- ** Intelligent Legal Q&A**: Get accurate answers to legal questions using advanced AI
+- ** RAG-Powered Responses**: Retrieves information from actual legal documents (Constitution, IPC, Evidence Act, Contract Act)
+- ** Conversational Interface**: Natural, user-friendly chat experience with memory
+- ** Bilingual Support**: Works with both English and Hindi queries
+- ** Fast & Efficient**: Powered by Groq's Llama 3.3 70B for lightning-fast responses
+- ** Privacy-Focused**: Local embeddings using HuggingFace models
+- ** Responsive Design**: Beautiful dark-themed UI optimized for all devices
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Understanding fundamental rights and legal procedures
 - Learning about specific IPC sections and laws
@@ -27,7 +27,7 @@
 - Understanding property, marriage, and business laws
 - Quick legal information for students and researchers
 
-## 🏗️ Technical Architecture
+##  Technical Architecture
 
 ```
 User Query → Streamlit UI → LangChain RAG Pipeline
@@ -49,7 +49,7 @@ User Query → Streamlit UI → LangChain RAG Pipeline
 - **Framework**: LangChain (RAG Implementation)
 - **Document Processing**: PyPDF
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.10 or higher
 - Windows/Linux/MacOS
@@ -57,7 +57,7 @@ User Query → Streamlit UI → LangChain RAG Pipeline
 - Internet connection (for LLM API calls)
 - Groq API Key ([Get free key](https://console.groq.com))
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -109,7 +109,7 @@ streamlit run app.py
 
 The app will open automatically at `http://localhost:8501`
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Nyaysetu/
@@ -130,7 +130,7 @@ Nyaysetu/
 └── legal_vector_store/         # Generated vector database (after setup)
 ```
 
-## 💡 Usage Examples
+##  Usage Examples
 
 **Query**: *"What is Section 420 IPC?"*
 
@@ -142,7 +142,7 @@ Nyaysetu/
 **NyaySetu Response**:
 > To file an FIR (First Information Report) in India, you can visit the nearest police station and provide details of the cognizable offense. The police are obligated to register the FIR... [detailed steps]
 
-## 🛠️ Configuration
+##  Configuration
 
 ### Customize LLM Settings
 Edit `nyaysetu.py` to change:
@@ -161,7 +161,7 @@ chunk_overlap=200
 ### Customize UI Theme
 Edit `app.py` to modify colors and styling in the CSS section.
 
-## 🧪 Testing
+##  Testing
 
 Example test queries:
 - "What are fundamental rights?"
@@ -170,7 +170,7 @@ Example test queries:
 - "Consumer rights in India"
 - "शादी के लिए कानूनी उम्र क्या है?" (Hindi)
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Virtual Environment Issues
 If activation fails after renaming the folder:
@@ -196,7 +196,7 @@ Ensure you have:
 pip install -r requirements.txt --force-reinstall
 ```
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 - **Response Time**: ~2-3 seconds per query
 - **Document Coverage**: 2300+ legal text chunks indexed
@@ -213,21 +213,20 @@ Contributions are welcome! Here's how:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add more legal documents (Tax laws, Labor laws, etc.)
 - [ ] Implement multilingual support (Tamil, Telugu, Bengali)
 - [ ] Add voice input/output capabilities
-- [ ] Deploy on cloud (AWS/Azure/Heroku)
+- [ ] Deploy on cloud (AWS)
 - [ ] Add user authentication and history
 - [ ] Integrate case law database
-- [ ] Add legal form templates generator
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 **Important**: NyaySetu provides general legal information only and is not a substitute for professional legal advice. The responses are AI-generated based on available legal documents. For specific legal matters, always consult a qualified lawyer.
 
-## 👨‍💻 Developer
+##  Developer
 
 **Jatin Phogat**
 - GitHub: [@JatinPhogat](https://github.com/JatinPhogat)
@@ -237,7 +236,7 @@ Contributions are welcome! Here's how:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **LangChain** for the RAG framework
 - **Groq** for providing fast LLM inference
