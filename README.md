@@ -7,7 +7,7 @@
 
 > **Bridge to Justice** - An intelligent AI-powered legal assistant that provides information about Indian laws, legal procedures, and rights using Retrieval-Augmented Generation (RAG) technology.
 
-[![NyaySetu Demo](https://via.placeholder.com/800x400.png?text=NyaySetu+Demo+Screenshot)](utils/nyay-setu-demo.mp4)
+https://github.com/user-attachments/assets/520de33c-6afa-4f36-b249-e6aea61ceb7e
 
 ##  Key Features
 
