@@ -11,13 +11,13 @@ https://github.com/user-attachments/assets/520de33c-6afa-4f36-b249-e6aea61ceb7e
 
 ##  Key Features
 
-- ** Intelligent Legal Q&A**: Get accurate answers to legal questions using advanced AI
-- ** RAG-Powered Responses**: Retrieves information from actual legal documents (Constitution, IPC, Evidence Act, Contract Act)
-- ** Conversational Interface**: Natural, user-friendly chat experience with memory
-- ** Bilingual Support**: Works with both English and Hindi queries
-- ** Fast & Efficient**: Powered by Groq's Llama 3.3 70B for lightning-fast responses
-- ** Privacy-Focused**: Local embeddings using HuggingFace models
-- ** Responsive Design**: Beautiful dark-themed UI optimized for all devices
+- **Intelligent Legal Q&A**: Get accurate answers to legal questions using advanced AI
+- **RAG-Powered Responses**: Retrieves information from actual legal documents (Constitution, IPC, Evidence Act, Contract Act)
+- **Conversational Interface**: Natural, user-friendly chat experience with memory
+- **Bilingual Support**: Works with both English and Hindi queries
+- **Fast & Efficient**: Powered by Groq's Llama 3.3 70B for lightning-fast responses
+- **Privacy-Focused**: Local embeddings using HuggingFace models
+- **Responsive Design**: Beautiful dark-themed UI optimized for all devices
 
 ##  Use Cases
 
